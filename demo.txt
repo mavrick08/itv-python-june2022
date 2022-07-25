@@ -1,0 +1,4 @@
+this is line 1
+this is line 2
+welcome to file handling
+we will learn some operations
