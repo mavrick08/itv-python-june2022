@@ -1,0 +1,12 @@
+Name: Demo User
+Address: Bina Apt, Andheri
+City: Mumbai
+Designation: Software Developer
+Salary: 40000
+Qualification:B.Tech
+Hobbies is: Cricket
+Hobbies is: Swimming
+Hobbies is: Cricket
+Hobbies is: Swimming
+Country: India
+Country: India
